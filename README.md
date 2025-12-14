@@ -55,7 +55,7 @@ Make sure you have:
 ### Clone the Repository
 ```bash
 git clone https://github.com/sapnamehar6264/PrepWise.git
-cd ai_mock_interviews
+cd PrepWise
 ```
 ### Install Dependencies
 ```bash
@@ -88,14 +88,14 @@ FIREBASE_PRIVATE_KEY=
 ```bash
 npm run dev
 ```
-## Run the Project
-- **Real-time voice emotion analysis
-- **Resume-based interview personalization
-- **Interview performance analytics dashboard
-- **Multi-language interview support
-- **Company-specific interview simulations
+## 📈 Future Enhancements
+- Real-time voice emotion analysis
+- Resume-based interview personalization
+- Interview performance analytics dashboard
+- Multi-language interview support
+- Company-specific interview simulations
 
-###👩‍💻 Author
+##👩‍💻 Author
 Sapna Mehar
 IT Student | Frontend Developer | UI/UX Designer
 
